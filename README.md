@@ -1,5 +1,27 @@
 # fintpc-benchmark
-fintpc module
+FinTPc module; performs relevant performance analysis over FinTPc transaction processing
+
+version 1.0
+
+Building
+-----
+
+
+Usage
+-----
+
+
+Installation
+-----
+
+
+Contributing
+-----
+
+
+Requirements
+------------
+FinTPc
 
 License
 -----
