@@ -1,6 +1,6 @@
-[submodule "api"]
-	path = api
-	url = https://github.com/FinTPc/api.git
 [submodule "fintpc-ui"]
 	path = fintpc-ui
 	url = https://github.com/FinTPc/fintpc-ui
+[submodule "fintpc-api"]
+	path = fintpc-api
+	url = https://github.com/FinTPc/fintpc-api
